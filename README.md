@@ -27,7 +27,7 @@ https://github.com/ahmadhidayat22/IMK-WIREFRAME
 ![GAMBAR](https://github.com/ahmadhidayat22/IMK-WIREFRAME/blob/main/Sketching%20Wireframe.jpeg)
 
 
-# Milestone
+
 - [X] menentukan niche dan konsep
 - [X] membuat wireframe
 - [ ] membuat storyboard
