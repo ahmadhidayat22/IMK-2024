@@ -23,7 +23,11 @@ Ahmad Nur Hidayat (2209106092)
 LInk Github:
 https://github.com/ahmadhidayat22/IMK-WIREFRAME
 
+# konsep
+![GAMBAR](https://github.com/ahmadhidayat22/IMK-WIREFRAME/blob/main/Sketching%20Wireframe.jpeg)
+
+
 # Milestone
-- [X] create concept
-- [X] create wirefreame
-- [ ] create storyboard
+- [X] menentukan niche dan konsep
+- [X] membuat wireframe
+- [ ] membuat storyboard
