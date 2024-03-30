@@ -22,3 +22,8 @@ Ahmad Nur Hidayat (2209106092)
 
 LInk Github:
 https://github.com/ahmadhidayat22/IMK-WIREFRAME
+
+# Milestone
+- [X] create concept
+- [X] create wirefreame
+- [ ] create storyboard
