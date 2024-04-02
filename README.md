@@ -8,7 +8,7 @@ Zaky Syuhada (2209106073)
 <br>
 Surya Abdi Febrianto (2209106074)
 <br>
-Rifai Ananda Ramadhana (2209106075)
+Rifai Ananda Ramadhana (2209106075) 
 <br>
 Brayen Tisra Sarira (2209106076)
 <br>
