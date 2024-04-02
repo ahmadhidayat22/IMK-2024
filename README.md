@@ -29,4 +29,4 @@ https://github.com/ahmadhidayat22/IMK-WIREFRAME
 
 - [X] menentukan niche dan konsep
 - [X] membuat wireframe
-- [ ] membuat storyboard
+- [X] membuat storyboard
