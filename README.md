@@ -1,6 +1,6 @@
-# IMK-WIREFRAME
+# INTERAKSI MANUSIA DAN KOMPUTER 2024
 
-## Title
+## Judul
  website e-commerce yang bernama indoGoods
 
 ## Anggota
