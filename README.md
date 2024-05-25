@@ -24,7 +24,7 @@ LInk Github:
 https://github.com/ahmadhidayat22/IMK-WIREFRAME
 
 # konsep
-![GAMBAR](https://github.com/ahmadhidayat22/IMK-WIREFRAME/blob/main/Sketching%20Wireframe.jpeg)
+![GAMBAR](https://github.com/ahmadhidayat22/IMK-2024/blob/e63efc4531fd8036010fce8e79dd92cb6c7553c4/Wireframe_IndoGoods_B22.jpeg)
 
 
 - [X] menentukan niche dan konsep
